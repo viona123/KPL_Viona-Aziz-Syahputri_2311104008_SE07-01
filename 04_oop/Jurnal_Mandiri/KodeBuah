@@ -20,3 +20,4 @@ class KodeBuah {
 }
 
 module.exports = KodeBuah;
+ 

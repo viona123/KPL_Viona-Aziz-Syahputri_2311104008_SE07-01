@@ -10,3 +10,4 @@ console.log("Kode pos Samoja:", kp.getKodePos("Samoja"));
 const pintu = new DoorMachine();
 pintu.buka();
 pintu.kunci();
+ 

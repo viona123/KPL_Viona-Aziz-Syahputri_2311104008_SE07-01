@@ -27,3 +27,4 @@ class PosisiKarakterGame {
 }
 
 module.exports = PosisiKarakterGame;
+ 

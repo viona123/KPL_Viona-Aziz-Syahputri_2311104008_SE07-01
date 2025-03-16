@@ -11,5 +11,5 @@ const karakter = new PosisiKarakterGame();
 karakter.printState();
 karakter.tombolW();
 karakter.printState();
-karakter.tombolS();
+karakter.tombolS(); 
 karakter.printState();

@@ -70,4 +70,4 @@ class Person {
   console.log(manager1.introduce());
   
   const itDepartement = new ITDepartement("IT");
-  console.log(itDepartement.getDepartementInfo());
+  console.log(itDepartement.getDepartementInfo()); 
