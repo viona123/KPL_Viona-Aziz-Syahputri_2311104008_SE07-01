@@ -1,7 +1,7 @@
 const SayaTubeVideo = require("./SayaTubeVideo");
 
 try {
-    let video = new SayaTubeVideo("Tutorial Design By Contract – [NAMA_PRAKTIKAN]");
+    let video = new SayaTubeVideo("Tutorial Design By Contract – Viona Aziz Syahputri");
     video.printVideoDetails();
 
     video.increasePlayCount(5000);
