@@ -1,0 +1,16 @@
+{
+  "name": "08_runtimeconfiguration_internationalization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "i18next": "^24.2.3",
+    "i18next-fs-backend": "^2.6.0"
+  }
+}
