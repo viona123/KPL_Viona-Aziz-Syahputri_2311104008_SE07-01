@@ -1,0 +1,16 @@
+{
+    "fistname": "Viona",
+    "lastname": "Syahputri",
+    "gander": "Perempuan",
+    "age": 20,
+    "address": {
+        "streetAddress": "Jl. Melati 2",
+        "city": "Banyumas",
+        "state": "Sokaraja"
+    },
+    "courses": [
+        { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+        { "code": "CRI2C5", "name": "Basis Data" }
+    ]
+}
+
