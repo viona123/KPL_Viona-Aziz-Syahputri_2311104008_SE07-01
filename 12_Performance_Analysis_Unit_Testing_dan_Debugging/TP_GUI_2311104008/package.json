@@ -1,0 +1,16 @@
+{
+  "name": "tp_gui_2311104008",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "electron ."
+  },
+   "devDependencies": {
+    "electron": "^29.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
